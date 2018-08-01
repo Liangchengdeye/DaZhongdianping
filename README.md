@@ -12,3 +12,6 @@ bin：目录为数据分析文件，主要有：
 分析，同时对应各类结果图表（见HTML），可直接查看。<br>
 data：目录为最终结果集分析，以及MySQL数据。<br>
 spider：抓取爬虫。
+## 新增
+新增加大众点评 点评信息抓取：spider/dazhongdianpin.py
+抓取存储至data/Stu_csv.csv文件
