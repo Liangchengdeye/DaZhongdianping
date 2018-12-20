@@ -18,4 +18,7 @@ spider：抓取爬虫，大众点评评论抓取，更新于2018/12/20。
 ## 新增
 新增加大众点评 点评信息抓取：spider/dazhongdianpin.py 抓取存储至data/Stu_csv.csv文件
 新增加大众点评完整评论抓取：spider/dazhongdianping.py 更新于2018/12/20，解决前端字体样式加密
-
+## 相关几篇博文
+* 大众点评评论抓取-加密评论信息完整抓取：https://blog.csdn.net/sinat_32651363/article/details/85123876
+* 大众点评热门餐厅抓取与数据分析：https://blog.csdn.net/sinat_32651363/article/details/81129683
+* 大众点评评论抓取：https://blog.csdn.net/sinat_32651363/article/details/81330914
