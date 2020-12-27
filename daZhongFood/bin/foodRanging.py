@@ -261,4 +261,4 @@ if __name__ == '__main__':
         list_y10.append(data10)
         list_y11.append(data11)
         list_y12.append(data12)
-    plotFoodRanging(list_y1, list_y2, list_y3, list_y4, list_y5, list_y6, list_y7, list_y8, list_y9, list_y10, list_y11, list_y12)
+    plotFoodRanging(list_y1, list_y2, list_y3, list_y4, list_y5, list_y6, list_y7, list_y8, list_y9, list_y10, list_y11,  list_y12)
